@@ -1,0 +1,1 @@
+# Hackintosh-Clover-BigSur-Catalina-Dell-5570
